@@ -1,6 +1,5 @@
-Here's a revised version of the description:
+#Basic code for processing students
 
-Basic code for processing students
 This Java program demonstrates basic skills in using Java and SQLite. The program is console-based, with a menu that allows users to make requests from the database by typing into the console.
 
 To start the program, you will need to download the JDBC driver and connect it in your IDE. For visualizing the tables, you can download a database UI such as DBrowser for SQLite.
