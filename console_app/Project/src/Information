@@ -1,0 +1,19 @@
+My first Project, verison.                                                                                      data of starting: 02.02.2023
+
+The main idea behind the project is to create a simple program for processing students.
+In the first version of the project, it would be added the main logic for the methods,
+which will process the students added in. Data will be stored in database, it will be used
+SQLite3 for that purpose. So basically it will have the following functionality.
+
+TODO: add method which will show all the tables in DB
+TODO: add method for clearing all the data from DB
+TODO: check Georgi server/client using db
+TODO: make it possible, accessing data from db to be relevant only by subject name and facultyNumber
+TODO: make method to print all student grades, not only in selected subject
+TODO: add MENU
+TODO: add functionality in studentsGradesMenu to have option to delete specific grade
+TODO: add method to print all student information, including grades, also to have another method to print concrete student
+TODO: add PreparedStatement which prevent from injection attack
+TODO: use PreparedStatement
+TODO: use Transactions
+TODO: must to know what is ACID - compliant
